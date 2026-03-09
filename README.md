@@ -55,7 +55,7 @@ Clean, responsive website for Horn Vision Relief & Development Organization buil
 
 ---
 
-### [SORDO Website](https://sordo.so)
+### [SORDO Website](https://sordo.org)
 Official website for Somali Relief & Development Organization (SORDO), featuring program information, success stories, and engagement opportunities.
 
 **Tech:** WordPress, Custom Theme, Responsive Design
