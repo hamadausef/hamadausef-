@@ -69,6 +69,13 @@ Official company website showcasing our portfolio of web development, data colle
 
 ---
 
+### [AdeegSan Consulting Firm Website](https://www.adegsan.so/)
+Professional, responsive website for AdeegSan Consulting Firm, a Somali business consultancy. Built with clean HTML5, CSS3, and JavaScript focusing on fast performance, mobile responsiveness, and professional brand presentation.
+
+**Tech:** HTML5, CSS3, JavaScript
+
+---
+
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ahmedyusufahmed)
