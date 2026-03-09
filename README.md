@@ -63,9 +63,9 @@ Official website for Somali Relief & Development Organization (SORDO), featuring
 ---
 
 ### [Dalkaal Technology Website](https://dalkaal.com)
-Official company website showcasing our portfolio of web development, data collection, and research services for World Bank, UN, and NGO clients.
+Official company website for Dalkaal Technology, a Somali technology company headquartered in Mogadishu specializing in developing information systems, technology and communication solutions, cloud-engineered systems, and enterprise software products. Built with clean HTML5, CSS3, and JavaScript focusing on fast performance, mobile responsiveness, and professional brand presentation.
 
-**Tech:** Next.js, React, Node.js
+**Tech:** HTML5, CSS3, JavaScript, Responsive Design
 
 ---
 
